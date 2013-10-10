@@ -42,10 +42,10 @@ for run in range(count):
     # add connection parameters
     ds.connection_parameters.update(
         host="localhost",
-        port="5432",
-        database="golfgis",
-        user="postgres",
-        passwd="DHM1808co",
+        port="5433",
+        database="geonode",
+        user="geonode",
+        passwd="geonode",
         schema=name_schema[run],
         dbtype="postgis")
 

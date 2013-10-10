@@ -48,8 +48,8 @@ autoupdate_url = '/data/autoupdate'
 
 # geoserver setting
 host_geoserver = 'golfgis.com'
-user_geoserver = 'golfgis'
-pass_geoserver = '04BycSmy31MQOx6aCrPk'
+user_geoserver = 'admin'
+pass_geoserver = 'geoserver'
 path_geoserver = '/var/geonode-data/styles/'
 
 
